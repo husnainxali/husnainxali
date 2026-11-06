@@ -10,5 +10,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- 📫 How to reach me ... husnainxali@gmail.com
-- 😄 Pronouns: ... male
+ 📫 How to reach me ... husnainxali@gmail.com
+ 😄 Pronouns: ... male
