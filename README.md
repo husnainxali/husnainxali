@@ -16,3 +16,9 @@
 
  
  😄 Pronouns: ... male
+ 
+### Stack
+
+[![Skills](https://skillicons.dev/icons?i=blender,figma,unity,arduino,c)](https://skillicons.dev)
+
+Also: KiCad, Fusion 360, QMK
