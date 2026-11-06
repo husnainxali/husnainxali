@@ -13,7 +13,4 @@ Also: KiCad, Fusion 360, QMK
 
 
  📫 How to reach me ... husnainxali@gmail.com
-
- 
- 😄 Pronouns: ... male
  
